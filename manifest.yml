@@ -1,0 +1,6 @@
+---
+applications:
+- name: hellonode
+  memory: 64M
+  command: node app.js
+  instances: 1
