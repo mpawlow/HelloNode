@@ -1,7 +1,7 @@
 
 PROD
 
-[![Deploy to Bluemix](https://hub.jazz.net/deploy/button.png)](http://hub.jazz.net/deploy)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
 
 QA
 
