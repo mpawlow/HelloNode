@@ -5,7 +5,13 @@ PROD
 
 QA
 
+**Document referrer does not work**
+
 [![Deploy to Bluemix](https://qa.hub.jazz.net/deploy/button.png)](http://qa.hub.jazz.net/deploy)
+
+**Document referrer works**
+
+[![Deploy to Bluemix](https://qa.hub.jazz.net/deploy/button.png)](http://qa.hub.jazz.net/deploy/index.html)
 
 DEV
 
